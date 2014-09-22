@@ -1,0 +1,1 @@
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\SignalRDemo.WindowsStore.csproj;neutral

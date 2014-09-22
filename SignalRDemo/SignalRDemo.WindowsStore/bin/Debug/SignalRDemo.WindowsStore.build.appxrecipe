@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FLAVIUSPC</Machine>
+    <WindowsUser>Flavius-Radu</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1e096276-e9ff-49ba-b979-4cc136d3e4c7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.exe">
+      <PackagePath>SignalRDemo.WindowsStore.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\packages\Microsoft.AspNet.SignalR.Client.2.0.2\lib\portable-net45+sl5+netcore45+wp8\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\packages\Newtonsoft.Json.5.0.1\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\packages\Microsoft.Net.Http.2.1.10\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.xr.xml">
+      <PackagePath>SignalRDemo.WindowsStore.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,97 @@
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\App.xbf
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\MainPage.xbf
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.exe
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.pdb
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\resources.pri
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\AppxManifest.xml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.build.appxrecipe
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\App.g.i.cs
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\App.g.cs
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MainPage.g.i.cs
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MainPage.g.cs
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\XamlTypeInfo.g.cs
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\App.xaml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MainPage.xaml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\App.xbf
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MainPage.xbf
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\XamlSaveStateFile.xml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.exe
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.pdb
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\priconfig.xml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\priconfig.xml.intermediate
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\layout.resfiles
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\layout.resfiles.intermediate
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\resources.resfiles
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\resources.resfiles.intermediate
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\pri.resfiles
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\pri.resfiles.intermediate
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\qualifiers.txt
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\qualifiers.txt.intermediate
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\ProjectArchitectures.txt
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\Newtonsoft.Json.dll
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\System.Net.Http.Extensions.dll
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\System.Net.Http.Primitives.dll
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\Newtonsoft.Json.xml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\System.Net.Http.Extensions.xml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\System.Net.Http.Primitives.xml
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.csprojResolveAssemblyReference.cache
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.csproj.GenerateResource.Cache
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
+H:\SkyDrive\My presentations\SignalR Q1 2014\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\App.xbf
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\MainPage.xbf
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.xr.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.exe
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.pdb
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\resources.pri
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\AppxManifest.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\SignalRDemo.WindowsStore.build.appxrecipe
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.csprojResolveAssemblyReference.cache
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\App.g.i.cs
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\App.g.cs
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MainPage.g.i.cs
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MainPage.g.cs
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\App.xaml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MainPage.xaml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\App.xbf
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MainPage.xbf
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.exe
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.pdb
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.csproj.GenerateResource.Cache
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\priconfig.xml
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\priconfig.xml.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\layout.resfiles
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\layout.resfiles.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\resources.resfiles
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\resources.resfiles.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\pri.resfiles
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\pri.resfiles.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\qualifiers.txt
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\ProjectArchitectures.txt

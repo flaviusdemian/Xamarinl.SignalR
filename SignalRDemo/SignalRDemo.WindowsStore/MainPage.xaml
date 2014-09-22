@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="SignalRDemo.WindowsStore.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SignalRDemo.WindowsStore"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="Ping text"/>
+            <TextBox TextWrapping="Wrap" Text="" Name="pingTxt"/>
+            <TextBlock TextWrapping="Wrap" Text=""  Height="198" Width="255" Name="pongTxt" FontSize="32"/>
+            <Button Content="Ping text" HorizontalAlignment="Left" Width="175" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

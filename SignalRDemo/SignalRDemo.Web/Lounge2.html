@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h2>Lounge 2</h2>
+
+    <label>Write something</label>
+    <input type="text" id="pingTxt" />
+    <input type="button" id="sendPing" value="Ping" />
+    <input type="hidden" id="displayname">
+
+    <div id="pongTxt">
+    </div>
+
+    <script src="/Scripts/jquery-2.1.0.js"></script>
+    <script src="/Scripts/jquery.signalR-2.0.1.min.js"></script>
+
+    <script type="text/javascript">
+        var proxy;
+
+        $(function () {
+
+            var connection = $.hubConnection();
+            proxy = connection.createHubProxy("Lounge");
+            proxy.on("pongHello", onPong);
+            
+            //connection.url = "http://localhost:9876/signalr";
+            
+            connection.logging = true;
+            connection.error(function (err) {
+                console.log("An error occured: " + err);
+            });
+
+            connection.starting(function () {
+                console.log("Starting...");
+            });
+
+            connection.received(function () {
+                console.log("received...");
+            });
+
+            connection.connectionSlow(function () {
+                console.log("connectionSlow...");
+            });
+
+            connection.reconnecting(function () {
+                console.log("reconnecting...");
+            });
+
+            connection.stateChanged(function () {
+                console.log("stateChanged...");
+            });
+
+            connection.disconnected(function () {
+                console.log("disconnected...");
+            });
+
+            connection.reconnected(function () {
+                console.log("reconnected...");
+            });
+
+
+            function onPong (data) {
+                $('#pongTxt').append('<li>' + htmlEncode(data) + '</li>');
+            };
+
+            $('#sendPing').click(function () {
+                proxy.invoke("pingHello", $('#pingTxt').val()).fail(function (error) {
+                    console.log('pingHello error: ' + error)
+                });;
+                $('#pingTxt').val('').focus();
+            });
+
+            $('#pingTxt').focus();
+
+            connection.start({ transport: ['webSockets', 'longPolling', 'foreverFrame', 'serverSentEvents'] }).done(function () {
+                console.log("Connected, transport = " + connection.transport.name);
+                console.log("Connection id = " + connection.id)
+            });;
+        });
+
+
+        function htmlEncode(value) {
+            var encodedValue = $('<div />').text(value).html();
+            return encodedValue;
+        }
+
+    </script>
+</body>
+</html>
