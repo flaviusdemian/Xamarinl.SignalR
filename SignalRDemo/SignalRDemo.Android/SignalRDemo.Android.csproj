@@ -62,7 +62,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adapters\PlayersAdapter.cs" />
+    <Compile Include="GameActivity.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="MyApplication.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -95,7 +98,6 @@
     <XamarinComponentReference Include="signalr">
       <Visible>False</Visible>
       <Version>2.1.2</Version>
-      <InstallationInProgress>True</InstallationInProgress>
     </XamarinComponentReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

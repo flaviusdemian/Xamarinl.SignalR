@@ -10,12 +10,30 @@
         p1:layout_marginRight="11.5dp">
         <TableRow
             p1:id="@+id/tableRow1">
+            <Button
+                p1:id="@+id/btn_c1_l1" />
+            <Button
+                p1:id="@+id/btn_c2_l1" />
+            <Button
+                p1:id="@+id/btn_c3_l1" />
         </TableRow>
         <TableRow
             p1:id="@+id/tableRow2">
+            <Button
+                p1:id="@+id/btn_c1_l2" />
+            <Button
+                p1:id="@+id/btn_c2_l2" />
+            <Button
+                p1:id="@+id/btn_c3_l2" />
         </TableRow>
         <TableRow
             p1:id="@+id/tableRow3">
+            <Button
+                p1:id="@+id/btn_c1_l3" />
+            <Button
+                p1:id="@+id/btn_c2_l3" />
+            <Button
+                p1:id="@+id/btn_c3_l3" />
         </TableRow>
     </TableLayout>
 </RelativeLayout>

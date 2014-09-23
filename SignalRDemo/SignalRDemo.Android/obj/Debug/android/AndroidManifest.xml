@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="SignalRDemo.Android" android:versionCode="1" android:versionName="1.0">
   <uses-sdk android:minSdkVersion="16" />
   <application android:label="SignalRDemo.Android" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:label="GameActivity" android:name="signalrdemo.android.GameActivity" />
     <activity android:icon="@drawable/icon" android:label="SignalRDemo.Android" android:name="signalrdemo.android.MainActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SignalRDemo.Android.mono.MonoRuntimeProvider.__mono_init__" />
     <receiver android:name="mono.android.Seppuku">

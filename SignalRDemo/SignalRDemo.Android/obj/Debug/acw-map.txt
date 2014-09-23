@@ -1,1 +1,2 @@
+SignalRDemo.Android.GameActivity;signalrdemo.android.GameActivity
 SignalRDemo.Android.MainActivity;signalrdemo.android.MainActivity

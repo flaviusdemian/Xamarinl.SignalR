@@ -15,12 +15,26 @@ public final class R {
         public static final int monoandroidsplash=0x7f020001;
     }
     public static final class id {
-        public static final int ll_instructions_container=0x7f060001;
-        public static final int lv_players=0x7f060005;
-        public static final int rl_main=0x7f060000;
-        public static final int tv_available_players=0x7f060004;
-        public static final int tv_instructions=0x7f060002;
-        public static final int tv_username=0x7f060003;
+        public static final int btn_c1_l1=0x7f060003;
+        public static final int btn_c1_l2=0x7f060007;
+        public static final int btn_c1_l3=0x7f06000b;
+        public static final int btn_c2_l1=0x7f060004;
+        public static final int btn_c2_l2=0x7f060008;
+        public static final int btn_c2_l3=0x7f06000c;
+        public static final int btn_c3_l1=0x7f060005;
+        public static final int btn_c3_l2=0x7f060009;
+        public static final int btn_c3_l3=0x7f06000d;
+        public static final int ll_instructions_container=0x7f06000f;
+        public static final int lv_players=0x7f060013;
+        public static final int rl_game=0x7f060000;
+        public static final int rl_main=0x7f06000e;
+        public static final int tableLayout1=0x7f060001;
+        public static final int tableRow1=0x7f060002;
+        public static final int tableRow2=0x7f060006;
+        public static final int tableRow3=0x7f06000a;
+        public static final int tv_available_players=0x7f060012;
+        public static final int tv_instructions=0x7f060010;
+        public static final int tv_username=0x7f060011;
     }
     public static final class layout {
         public static final int game=0x7f030000;

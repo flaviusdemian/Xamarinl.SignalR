@@ -1,8 +1,5 @@
 ﻿using System;
 using Android.App;
-using Android.Content;
-using Android.Runtime;
-using Android.Views;
 using Android.Widget;
 using Android.OS;
 
@@ -11,17 +8,40 @@ namespace SignalRDemo.Android
     [Activity(Label = "SignalRDemo.Android", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
-        int count = 1;
-
+        public static ListView lv_players = null;
+        public static TextView tv_username = null;
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
+            try
+            {
+                // Set our view from the "main" layout resource
+                SetContentView(Resource.Layout.Main);
+                InitializeUIElements();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Toast.MakeText(this, ex.ToString(), ToastLength.Long);
+            }
+        }
 
-            // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.Main);
-
-            // Get our button from the layout resource,
-            // and attach an event to it
+        private void InitializeUIElements()
+        {
+            try
+            {
+                lv_players = FindViewById<ListView>(Resource.Id.lv_players);
+                if (lv_players != null)
+                {
+                    throw new Exception("ListView is not defined");
+                }
+                tv_username = FindViewById<TextView>(Resource.Id.tv_username);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+                Toast.MakeText(this, ex.ToString(), ToastLength.Long);
+            }
         }
     }
 }

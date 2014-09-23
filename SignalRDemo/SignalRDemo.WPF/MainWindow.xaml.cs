@@ -23,8 +23,7 @@ namespace SignalRDemo.WPF
             InitializeComponent();
 
             // create connection
-            var hubConnection = new HubConnection("http://localhost:5678/signalr");
-            //var hubConnection = new HubConnection("http://signalrtictactoe.azurewebsites.net/signalr");
+            var hubConnection = new HubConnection("http://localhost:99/signalr");
 
             // create proxy
             loungeProxy = hubConnection.CreateHubProxy("Lounge");
