@@ -26,25 +26,59 @@
             proxy = connection.createHubProxy("Lounge");
             proxy.on("pongHello", onPong);
             
-            connection.url = "http://localhost:9876/signalr";
+            //connection.url = "http://localhost:9876/signalr";
             
             connection.logging = true;
             connection.error(function (err) {
                 console.log("An error occured: " + err);
             });
 
+            connection.starting(function () {
+                console.log("Starting...");
+            });
+
+            connection.received(function () {
+                console.log("received...");
+            });
+
+            connection.connectionSlow(function () {
+                console.log("connectionSlow...");
+            });
+
+            connection.reconnecting(function () {
+                console.log("reconnecting...");
+            });
+
+            connection.stateChanged(function () {
+                console.log("stateChanged...");
+            });
+
+            connection.disconnected(function () {
+                console.log("disconnected...");
+            });
+
+            connection.reconnected(function () {
+                console.log("reconnected...");
+            });
+
+
             function onPong (data) {
                 $('#pongTxt').append('<li>' + htmlEncode(data) + '</li>');
             };
 
             $('#sendPing').click(function () {
-                proxy.invoke("pingHello", $('#pingTxt').val());
+                proxy.invoke("pingHello", $('#pingTxt').val()).fail(function (error) {
+                    console.log('pingHello error: ' + error)
+                });;
                 $('#pingTxt').val('').focus();
             });
 
             $('#pingTxt').focus();
 
-            connection.start();
+            connection.start({ transport: ['webSockets', 'longPolling', 'foreverFrame', 'serverSentEvents'] }).done(function () {
+                console.log("Connected, transport = " + connection.transport.name);
+                console.log("Connection id = " + connection.id)
+            });;
         });
 
 

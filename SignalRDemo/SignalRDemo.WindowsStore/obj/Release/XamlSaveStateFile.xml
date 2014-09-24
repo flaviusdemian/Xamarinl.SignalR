@@ -1,8 +1,8 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <ReferenceAssembly PathName="h:\skydrive\my presentations\signalr q1 2014\signalrdemo\packages\microsoft.aspnet.signalr.client.2.0.2\lib\portable-net45+sl5+netcore45+wp8\microsoft.aspnet.signalr.client.dll" HashGuid="764c6f19-cfc4-6869-4d19-64df55b95642" />
-    <ReferenceAssembly PathName="h:\skydrive\my presentations\signalr q1 2014\signalrdemo\packages\newtonsoft.json.5.0.1\lib\netcore45\newtonsoft.json.dll" HashGuid="1c57148c-6f74-28cf-f39b-c2a3743f7965" />
-    <ReferenceAssembly PathName="h:\skydrive\my presentations\signalr q1 2014\signalrdemo\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
-    <ReferenceAssembly PathName="h:\skydrive\my presentations\signalr q1 2014\signalrdemo\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\projects\xamarinl.signalr\signalrdemo\packages\microsoft.aspnet.signalr.client.2.0.2\lib\portable-net45+sl5+netcore45+wp8\microsoft.aspnet.signalr.client.dll" HashGuid="764c6f19-cfc4-6869-4d19-64df55b95642" />
+    <ReferenceAssembly PathName="c:\projects\xamarinl.signalr\signalrdemo\packages\newtonsoft.json.5.0.1\lib\netcore45\newtonsoft.json.dll" HashGuid="1c57148c-6f74-28cf-f39b-c2a3743f7965" />
+    <ReferenceAssembly PathName="c:\projects\xamarinl.signalr\signalrdemo\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\projects\xamarinl.signalr\signalrdemo\packages\microsoft.net.http.2.1.10\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

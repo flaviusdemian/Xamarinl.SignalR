@@ -36,8 +36,11 @@ C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\SignalRDe
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\SignalRDemo.Android.pdb
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\android\bin\SignalRDemo.Android.apk
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\res\layout\game.xml
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\res\layout\simple.xml
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\res\layout\simple_item_template.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\res\layout\main.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\res\values\strings.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\res\drawable\icon.png
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\res\values\colors.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\R.cs.flag
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\uploadflags.txt

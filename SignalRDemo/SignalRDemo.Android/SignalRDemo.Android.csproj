@@ -62,12 +62,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adapters\MessagesAdapter.cs" />
     <Compile Include="Adapters\PlayersAdapter.cs" />
     <Compile Include="GameActivity.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Models\Message.cs" />
     <Compile Include="MyApplication.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleActivity.cs" />
+    <Compile Include="ViewHolders\MessagesViewHolder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
@@ -76,6 +80,9 @@
       <SubType>AndroidResource</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\Simple.axml" />
+    <AndroidResource Include="Resources\layout\Simple_Item_Template.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
@@ -88,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml" />
+    <AndroidResource Include="Resources\values\colors.xml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SignalRDemo.GameCore\SignalRDemo.GameCore.csproj">

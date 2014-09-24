@@ -1,33 +1,23 @@
-﻿using Microsoft.AspNet.SignalR.Client;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices.WindowsRuntime;
-using Windows.Foundation;
-using Windows.Foundation.Collections;
+﻿using System;
+using Windows.UI.Core;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
-using Windows.UI.Xaml.Controls.Primitives;
-using Windows.UI.Xaml.Data;
-using Windows.UI.Xaml.Input;
-using Windows.UI.Xaml.Media;
-using Windows.UI.Xaml.Navigation;
+using Microsoft.AspNet.SignalR.Client;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
 namespace SignalRDemo.WindowsStore
 {
     /// <summary>
-    /// An empty page that can be used on its own or navigated to within a Frame.
+    ///     An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        private IHubProxy loungeProxy;
+        private readonly IHubProxy loungeProxy;
 
         public MainPage()
         {
-            this.InitializeComponent();
+            InitializeComponent();
 
             // create connection
             var hubConnection = new HubConnection("http://localhost:5678/signalr");
@@ -37,11 +27,10 @@ namespace SignalRDemo.WindowsStore
             loungeProxy = hubConnection.CreateHubProxy("Lounge");
 
             loungeProxy.On<string>("pongHello",
-                data => Dispatcher.RunAsync(Windows.UI.Core.CoreDispatcherPriority.Normal, () =>
-                    {
-                        pongTxt.Text += Environment.NewLine + data;
-                    })
-            );
+                data =>
+                    Dispatcher.RunAsync(CoreDispatcherPriority.Normal,
+                        () => { pongTxt.Text += Environment.NewLine + data; })
+                );
 
             hubConnection.Start().Wait();
         }

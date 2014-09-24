@@ -5,7 +5,7 @@ using Android.OS;
 
 namespace SignalRDemo.Android
 {
-    [Activity(Label = "SignalRDemo.Android", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "SignalRDemo.Android", MainLauncher = false, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         public static ListView lv_players = null;

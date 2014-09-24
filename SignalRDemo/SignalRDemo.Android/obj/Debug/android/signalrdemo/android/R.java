@@ -10,41 +10,251 @@ package signalrdemo.android;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        public static final int aliceBlue=0x7f04004c;
+        public static final int antiqueWhite=0x7f040042;
+        public static final int aqua=0x7f040098;
+        public static final int aquamarine=0x7f04007d;
+        public static final int azure=0x7f04004a;
+        public static final int beige=0x7f040047;
+        public static final int bisque=0x7f040030;
+        public static final int black=0x7f040023;
+        public static final int blanchedAlmond=0x7f04002e;
+        public static final int blue=0x7f040022;
+        public static final int blueDark=0x7f040010;
+        public static final int blueLight=0x7f040011;
+        public static final int blueviolet=0x7f040079;
+        public static final int brown=0x7f04006d;
+        public static final int burlyWood=0x7f040054;
+        public static final int cadetBlue=0x7f040088;
+        public static final int chartreuse=0x7f04007e;
+        public static final int chocolate=0x7f04005e;
+        public static final int coral=0x7f040039;
+        public static final int cornflowerBlue=0x7f040087;
+        public static final int cornsilk=0x7f04002a;
+        public static final int crimson=0x7f040057;
+        public static final int customers_bar=0x7f040018;
+        public static final int cyan=0x7f040099;
+        public static final int darkBlue=0x7f0400a1;
+        public static final int darkCyan=0x7f04009e;
+        public static final int darkGoldenrod=0x7f040066;
+        public static final int darkGreen=0x7f04009f;
+        public static final int darkKhaki=0x7f040063;
+        public static final int darkMagenta=0x7f040077;
+        public static final int darkOliveGreen=0x7f040089;
+        public static final int darkOrange=0x7f040038;
+        public static final int darkOrchid=0x7f040070;
+        public static final int darkRed=0x7f040078;
+        public static final int darkSalmon=0x7f040051;
+        public static final int darkSeaGreen=0x7f040075;
+        public static final int darkSlateBlue=0x7f04008c;
+        public static final int darkSlateGray=0x7f040092;
+        public static final int darkTurquoise=0x7f04009c;
+        public static final int darkViolet=0x7f040072;
+        public static final int darkgray=0x7f04006c;
+        public static final int deepPink=0x7f04003d;
+        public static final int deepSkyBlue=0x7f04009d;
+        public static final int default_color=0x7f040001;
+        public static final int dimGray=0x7f040085;
+        public static final int dodgerBlue=0x7f040096;
+        public static final int fireBrick=0x7f040067;
+        public static final int floralWhite=0x7f040028;
+        public static final int forestGreen=0x7f040094;
+        public static final int fuchsia=0x7f04001b;
+        public static final int gainsboro=0x7f040056;
+        public static final int ghostWhite=0x7f040044;
+        public static final int gold=0x7f040034;
+        public static final int goldenrod=0x7f040059;
+        public static final int gray=0x7f0400a3;
+        public static final int gray2=0x7f0400a4;
+        public static final int gray_dark=0x7f04001c;
+        public static final int gray_medium=0x7f04001d;
+        public static final int green=0x7f040021;
+        public static final int greenYellow=0x7f04006b;
+        public static final int greendarkpale=0x7f04000d;
+        /**  A really bright Holo shade of blue 
+         */
+        public static final int holo_blue_bright=0x7f0400af;
+        /**  A dark Holo shade of blue 
+         */
+        public static final int holo_blue_dark=0x7f0400a9;
+        /**  A light Holo shade of blue 
+         */
+        public static final int holo_blue_light=0x7f0400a5;
+        /**  A really bright Holo shade of gray 
+         */
+        public static final int holo_gray_bright=0x7f0400b0;
+        /**  A light Holo shade of gray 
+         */
+        public static final int holo_gray_light=0x7f0400a6;
+        /**  A dark Holo shade of green 
+         */
+        public static final int holo_green_dark=0x7f0400aa;
+        /**  A light Holo shade of green 
+         */
+        public static final int holo_green_light=0x7f0400a7;
+        /**  A dark Holo shade of orange 
+         */
+        public static final int holo_orange_dark=0x7f0400ae;
+        /**  A light Holo shade of orange 
+         */
+        public static final int holo_orange_light=0x7f0400ad;
+        /**  A Holo shade of purple 
+         */
+        public static final int holo_purple=0x7f0400ac;
+        /**  A dark Holo shade of red 
+         */
+        public static final int holo_red_dark=0x7f0400ab;
+        /**  A light Holo shade of red 
+         */
+        public static final int holo_red_light=0x7f0400a8;
+        public static final int honeydew=0x7f04004b;
+        public static final int hotPink=0x7f04003a;
+        public static final int indianRed=0x7f040060;
+        public static final int indigo=0x7f04008a;
+        public static final int interpreters_bar=0x7f040019;
+        public static final int ivory=0x7f040024;
+        public static final int khaki=0x7f04004d;
+        public static final int lavender=0x7f040052;
+        public static final int lavenderBlush=0x7f04002c;
+        public static final int lawnGreen=0x7f04007f;
+        public static final int lemonChiffon=0x7f040029;
+        public static final int lightBlue=0x7f040015;
+        public static final int lightCoral=0x7f04004e;
+        public static final int lightCyan=0x7f040053;
+        public static final int lightGoldenrodYellow=0x7f040040;
+        public static final int lightGreen=0x7f040074;
+        public static final int lightGrey=0x7f04005c;
+        public static final int lightPink=0x7f040036;
+        public static final int lightSalmon=0x7f040037;
+        public static final int lightSeaGreen=0x7f040095;
+        public static final int lightSkyBlue=0x7f04007a;
+        public static final int lightSlateGray=0x7f040081;
+        public static final int lightSteelBlue=0x7f040069;
+        public static final int lightYellow=0x7f040025;
+        public static final int lime=0x7f04001f;
+        public static final int limeGreen=0x7f040091;
+        public static final int linen=0x7f040041;
+        public static final int linkColor=0x7f04000c;
+        public static final int magenta=0x7f04003e;
+        public static final int maroon=0x7f04001e;
+        public static final int mediumAquamarine=0x7f040086;
+        public static final int mediumBlue=0x7f0400a0;
+        public static final int mediumOrchid=0x7f040065;
+        public static final int mediumPurple=0x7f040073;
+        public static final int mediumSeaGreen=0x7f040090;
+        public static final int mediumSlateBlue=0x7f040080;
+        public static final int mediumSpringGreen=0x7f04009b;
+        public static final int mediumTurquoise=0x7f04008b;
+        public static final int mediumVioletRed=0x7f040061;
+        public static final int menuItemSelected=0x7f04000b;
+        public static final int menuItemUnselected=0x7f04000a;
+        public static final int menuTextColor=0x7f040016;
+        public static final int midnightBlue=0x7f040097;
+        public static final int mintCream=0x7f040045;
+        public static final int mistyRose=0x7f04002f;
+        public static final int moccasin=0x7f040031;
+        public static final int navajoWhite=0x7f040032;
+        public static final int navy=0x7f0400a2;
+        public static final int oldLace=0x7f04003f;
+        public static final int olive=0x7f04007c;
+        public static final int oliveDrab=0x7f040083;
+        public static final int orange=0x7f040012;
+        public static final int orangeRed=0x7f04003c;
+        public static final int orchid=0x7f04005a;
+        public static final int paleGoldenrod=0x7f04004f;
+        public static final int paleGreen=0x7f040071;
+        public static final int paleTurquoise=0x7f04006a;
+        public static final int paleVioletRed=0x7f040058;
+        public static final int papayaWhip=0x7f04002d;
+        public static final int peach=0x7f04000f;
+        public static final int peachPuff=0x7f040033;
+        public static final int peru=0x7f04005f;
+        public static final int pink=0x7f040035;
+        public static final int plum=0x7f040055;
+        public static final int powderBlue=0x7f040068;
+        public static final int pressed_color=0x7f040000;
+        public static final int purple=0x7f040017;
+        public static final int purpleish=0x7f04000e;
+        public static final int red=0x7f040013;
+        public static final int redLight=0x7f040014;
+        public static final int rosyBrown=0x7f040064;
+        public static final int royalBlue=0x7f04008e;
+        public static final int saddleBrown=0x7f040076;
+        public static final int salmon=0x7f040043;
+        public static final int sandyBrown=0x7f040049;
+        public static final int seaGreen=0x7f040093;
+        public static final int seashell=0x7f04002b;
+        public static final int sienna=0x7f04006e;
+        public static final int silver=0x7f040062;
+        public static final int skyBlue=0x7f04007b;
+        public static final int slateBlue=0x7f040084;
+        public static final int slateGray=0x7f040082;
+        public static final int snow=0x7f040027;
+        public static final int springGreen=0x7f04009a;
+        public static final int steelBlue=0x7f04008d;
+        public static final int tan=0x7f04005d;
+        public static final int teal=0x7f040020;
+        public static final int thistle=0x7f04005b;
+        public static final int tomato=0x7f04003b;
+        public static final int turquoise=0x7f04008f;
+        public static final int violet=0x7f040050;
+        public static final int vpi__background_holo_dark=0x7f040002;
+        public static final int vpi__background_holo_light=0x7f040003;
+        public static final int vpi__bright_foreground_disabled_holo_dark=0x7f040006;
+        public static final int vpi__bright_foreground_disabled_holo_light=0x7f040007;
+        public static final int vpi__bright_foreground_holo_dark=0x7f040004;
+        public static final int vpi__bright_foreground_holo_light=0x7f040005;
+        public static final int vpi__bright_foreground_inverse_holo_dark=0x7f040008;
+        public static final int vpi__bright_foreground_inverse_holo_light=0x7f040009;
+        public static final int wheat=0x7f040048;
+        public static final int white=0x7f04001a;
+        public static final int whiteSmoke=0x7f040046;
+        public static final int yellow=0x7f040026;
+        public static final int yellowGreen=0x7f04006f;
+    }
     public static final class drawable {
         public static final int icon=0x7f020000;
         public static final int monoandroidsplash=0x7f020001;
     }
     public static final class id {
-        public static final int btn_c1_l1=0x7f060003;
-        public static final int btn_c1_l2=0x7f060007;
-        public static final int btn_c1_l3=0x7f06000b;
-        public static final int btn_c2_l1=0x7f060004;
-        public static final int btn_c2_l2=0x7f060008;
-        public static final int btn_c2_l3=0x7f06000c;
-        public static final int btn_c3_l1=0x7f060005;
-        public static final int btn_c3_l2=0x7f060009;
-        public static final int btn_c3_l3=0x7f06000d;
-        public static final int ll_instructions_container=0x7f06000f;
-        public static final int lv_players=0x7f060013;
-        public static final int rl_game=0x7f060000;
-        public static final int rl_main=0x7f06000e;
-        public static final int tableLayout1=0x7f060001;
-        public static final int tableRow1=0x7f060002;
-        public static final int tableRow2=0x7f060006;
-        public static final int tableRow3=0x7f06000a;
-        public static final int tv_available_players=0x7f060012;
-        public static final int tv_instructions=0x7f060010;
-        public static final int tv_username=0x7f060011;
+        public static final int btn_c1_l1=0x7f070003;
+        public static final int btn_c1_l2=0x7f070007;
+        public static final int btn_c1_l3=0x7f07000b;
+        public static final int btn_c2_l1=0x7f070004;
+        public static final int btn_c2_l2=0x7f070008;
+        public static final int btn_c2_l3=0x7f07000c;
+        public static final int btn_c3_l1=0x7f070005;
+        public static final int btn_c3_l2=0x7f070009;
+        public static final int btn_c3_l3=0x7f07000d;
+        public static final int btn_send=0x7f070016;
+        public static final int et_instruction=0x7f070015;
+        public static final int ll_instructions_container=0x7f07000f;
+        public static final int lv_messages=0x7f070017;
+        public static final int lv_players=0x7f070013;
+        public static final int rl_game=0x7f070000;
+        public static final int rl_main=0x7f07000e;
+        public static final int tableLayout1=0x7f070001;
+        public static final int tableRow1=0x7f070002;
+        public static final int tableRow2=0x7f070006;
+        public static final int tableRow3=0x7f07000a;
+        public static final int tv_available_players=0x7f070012;
+        public static final int tv_content=0x7f070014;
+        public static final int tv_instructions=0x7f070010;
+        public static final int tv_message=0x7f070018;
+        public static final int tv_username=0x7f070011;
     }
     public static final class layout {
         public static final int game=0x7f030000;
         public static final int main=0x7f030001;
+        public static final int simple=0x7f030002;
+        public static final int simple_item_template=0x7f030003;
     }
     public static final class string {
-        public static final int ApplicationName=0x7f040001;
-        public static final int Hello=0x7f040000;
+        public static final int ApplicationName=0x7f050001;
+        public static final int Hello=0x7f050000;
     }
     public static final class style {
-        public static final int Mono_Android_Theme_Splash=0x7f050000;
+        public static final int Mono_Android_Theme_Splash=0x7f060000;
     }
 }

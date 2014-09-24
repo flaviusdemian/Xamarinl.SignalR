@@ -126,6 +126,14 @@ C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Sign
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.pdb
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\en-US\Microsoft.AspNet.SignalR.Client.Resources.resw
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\SignalRDemo.WindowsStore.csproj.GenerateResource.Cache
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\layout.resfiles.intermediate
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\Resources.resfiles.intermediate
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\pri.resfiles.intermediate
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\priconfig.xml.intermediate
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client.pri
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\Microsoft.AspNet.SignalR.Client\qualifiers.txt
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\Debug\priconfig.xml
