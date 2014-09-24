@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+VisualStudioVersion = 12.0.30626.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDemo.WPF", "SignalRDemo.WPF\SignalRDemo.WPF.csproj", "{43E01A7D-81D2-4FFA-AB20-3C5BE9DCE130}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDemo.GameCore", "SignalRDemo.GameCore\SignalRDemo.GameCore.csproj", "{D1B592C8-9CC2-4B25-984A-C5676848C819}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDemo.Web", "SignalRDemo.Web\SignalRDemo.Web.csproj", "{1AB07755-B01E-4F79-B280-C35F288BA784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDemo.WindowsStore", "SignalRDemo.WindowsStore\SignalRDemo.WindowsStore.csproj", "{4FD07628-6B6C-4934-8F44-66D1010CCDCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -65,6 +67,30 @@ Global
 		{1AB07755-B01E-4F79-B280-C35F288BA784}.Release|ARM.ActiveCfg = Release|Any CPU
 		{1AB07755-B01E-4F79-B280-C35F288BA784}.Release|x64.ActiveCfg = Release|Any CPU
 		{1AB07755-B01E-4F79-B280-C35F288BA784}.Release|x86.ActiveCfg = Release|Any CPU
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|ARM.ActiveCfg = Debug|ARM
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|ARM.Build.0 = Debug|ARM
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|ARM.Deploy.0 = Debug|ARM
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|x64.ActiveCfg = Debug|x64
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|x64.Build.0 = Debug|x64
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|x64.Deploy.0 = Debug|x64
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|x86.ActiveCfg = Debug|x86
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|x86.Build.0 = Debug|x86
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Debug|x86.Deploy.0 = Debug|x86
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|ARM.ActiveCfg = Release|ARM
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|ARM.Build.0 = Release|ARM
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|ARM.Deploy.0 = Release|ARM
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|x64.ActiveCfg = Release|x64
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|x64.Build.0 = Release|x64
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|x64.Deploy.0 = Release|x64
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|x86.ActiveCfg = Release|x86
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|x86.Build.0 = Release|x86
+		{4FD07628-6B6C-4934-8F44-66D1010CCDCE}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
