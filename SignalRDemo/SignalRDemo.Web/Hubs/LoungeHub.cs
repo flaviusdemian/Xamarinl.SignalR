@@ -46,7 +46,7 @@ namespace SignalRDemo.Web
             return base.OnConnected();
         }
 
-        public override System.Threading.Tasks.Task OnDisconnected()
+        public override System.Threading.Tasks.Task OnDisconnected(bool result)
         {
             var tmp = roomsAndPlayers.FirstOrDefault(x => x.PlayerConnectionId == Context.ConnectionId);
             if (tmp != null)
@@ -54,7 +54,7 @@ namespace SignalRDemo.Web
                 RemovePlayerFromAllGroups(tmp.PlayerName);
             }
 
-            return base.OnDisconnected();
+            return base.OnDisconnected(result);
         }
 
         public override System.Threading.Tasks.Task OnReconnected()

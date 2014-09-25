@@ -3,3 +3,8 @@ C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.Game
 C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.GameCore\obj\Debug\SignalRDemo.GameCore.csprojResolveAssemblyReference.cache
 C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.GameCore\obj\Debug\SignalRDemo.GameCore.dll
 C:\Users\Flavius-Radu\Downloads\OneDrive-2014-09-22\SignalRDemo\SignalRDemo.GameCore\obj\Debug\SignalRDemo.GameCore.pdb
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\bin\Debug\SignalRDemo.GameCore.dll
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\bin\Debug\SignalRDemo.GameCore.pdb
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\obj\Debug\SignalRDemo.GameCore.csprojResolveAssemblyReference.cache
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\obj\Debug\SignalRDemo.GameCore.dll
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\obj\Debug\SignalRDemo.GameCore.pdb

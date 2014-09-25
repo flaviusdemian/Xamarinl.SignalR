@@ -106,7 +106,7 @@
   <ItemGroup>
     <XamarinComponentReference Include="signalr">
       <Visible>False</Visible>
-      <Version>2.1.2</Version>
+      <Version>2.1.1</Version>
     </XamarinComponentReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

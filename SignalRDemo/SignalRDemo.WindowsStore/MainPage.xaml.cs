@@ -20,7 +20,7 @@ namespace SignalRDemo.WindowsStore
             InitializeComponent();
 
             // create connection
-            var hubConnection = new HubConnection("http://localhost:5678/signalr");
+            var hubConnection = new HubConnection("http://signalrmeetupdemo.azurewebsites.net/signalr");
             //var hubConnection = new HubConnection("http://signalrtictactoe.azurewebsites.net/signalr");
 
             // create proxy

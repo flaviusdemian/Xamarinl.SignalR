@@ -42,8 +42,7 @@ public class MonoPackageManager {
 						new java.io.File (
 							android.os.Environment.getExternalStorageDirectory (),
 							"Android/data/" + context.getPackageName () + "/files/.__override__").getAbsolutePath (),
-						MonoPackageManager_Resources.Assemblies,
-						context.getPackageName ());
+						MonoPackageManager_Resources.Assemblies);
 				initialized = true;
 			}
 		}

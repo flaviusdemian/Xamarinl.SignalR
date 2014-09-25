@@ -270,6 +270,7 @@ C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.Id
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.Identity.Owin.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Security.Cookies.dll
@@ -293,6 +294,11 @@ C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\System.Web.WebPages
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\WebGrease.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\SignalRDemo.GameCore.pdb
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.xml
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Security.xml
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Newtonsoft.Json.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\System.Web.Helpers.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\System.Web.Mvc.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\System.Web.Optimization.xml
@@ -300,16 +306,12 @@ C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\System.Web.Razor.xm
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\System.Web.WebPages.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\System.Web.WebPages.Razor.xml
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Newtonsoft.Json.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Antlr3.Runtime.pdb
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\EntityFramework.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\EntityFramework.SqlServer.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.Identity.Core.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.Identity.Owin.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.xml
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Security.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Security.Facebook.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Web\bin\Microsoft.Owin.Security.OAuth.xml

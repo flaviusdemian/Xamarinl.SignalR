@@ -357,7 +357,7 @@
         </member>
         <member name="P:Microsoft.Owin.Security.Resources.Exception_MissingDefaultSignInAsAuthenticationType">
             <summary>
-              Looks up a localized string similar to A default value for SignInAsAuthenticationType was not found in IAppBuilder Properties. This can happen if your authentication middleware are added in the wrong order, or if a call to UseExternalSignInCookie or UseSignInCookies has been removed..
+              Looks up a localized string similar to A default value for SignInAsAuthenticationType was not found in IAppBuilder Properties. This can happen if your authentication middleware are added in the wrong order, or if one is missing..
             </summary>
         </member>
         <member name="P:Microsoft.Owin.Security.Resources.Exception_UnhookAuthenticationStateType">
