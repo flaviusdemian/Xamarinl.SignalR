@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FLAVIUS-WORK-PC</Machine>
+    <WindowsUser>Flavius</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>1e096276-e9ff-49ba-b979-4cc136d3e4c7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A55809C8798D1DF34281D343519288CB66B2C39391148EC229C8EB32BC6603FB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1e096276-e9ff-49ba-b979-4cc136d3e4c7_1.0.0.0_x86__jvw2cr4a7cpjj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1e096276-e9ff-49ba-b979-4cc136d3e4c7_jvw2cr4a7cpjj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1e096276-e9ff-49ba-b979-4cc136d3e4c7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Emil</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-25T11:48:53.356</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\bin\x86\Debug\SignalRDemo.WindowsStore.exe">
+      <PackagePath>SignalRDemo.WindowsStore.exe</PackagePath>
+      <Modified>2014-09-25T12:04:14.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\packages\Microsoft.AspNet.SignalR.Client.2.1.2\lib\portable-net45+sl5+netcore45+wp8+wp81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+      <Modified>2014-09-25T10:56:27.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\packages\Newtonsoft.Json.6.0.5\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-09-25T10:56:28.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2014-09-25T10:56:50.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2014-09-25T10:56:50.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-25T10:31:49.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-25T10:31:49.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-25T10:31:49.871</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-25T10:31:49.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-25T11:48:51.883</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-25T11:48:51.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\bin\x86\Debug\SignalRDemo.WindowsStore.xr.xml">
+      <PackagePath>SignalRDemo.WindowsStore.xr.xml</PackagePath>
+      <Modified>2014-09-25T10:47:50.199</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-25T11:48:53.008</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
