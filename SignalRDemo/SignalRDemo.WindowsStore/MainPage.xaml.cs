@@ -21,7 +21,6 @@ namespace SignalRDemo.WindowsStore
 
             // create connection
             var hubConnection = new HubConnection("http://signalrmeetupdemo.azurewebsites.net/signalr");
-            //var hubConnection = new HubConnection("http://signalrtictactoe.azurewebsites.net/signalr");
 
             // create proxy
             loungeProxy = hubConnection.CreateHubProxy("Lounge");

@@ -32,7 +32,7 @@ namespace SignalRDemo.Android
                 {
                     RunOnUiThread(() =>
                     {
-                        AddMessageToList();
+                        AddMessageToList(data);
                     });
                 });
                 hubConnection.Start().Wait();
@@ -43,12 +43,11 @@ namespace SignalRDemo.Android
             }
         }
 
-        private void AddMessageToList()
+        private void AddMessageToList(String content)
         {
-            string message = et_content.Text;
-            if (string.IsNullOrWhiteSpace(message) == false && adapter != null)
+            if (string.IsNullOrWhiteSpace(content) == false && adapter != null)
             {
-                adapter.AddItem(message);
+                adapter.AddItem(content);
             }
         }
         private void InitializeUI()
@@ -57,9 +56,6 @@ namespace SignalRDemo.Android
             {
                 lv_messages = FindViewById<ListView>(Resource.Id.lv_messages);
                 List<string> items = new List<string>();
-                items.Add("alo");
-                items.Add("da");
-                items.Add("ce faci?");
                 adapter = new MessagesAdapter(this, Resource.Layout.Simple_Item_Template, items);
                 lv_messages.Adapter = adapter;
                 adapter.NotifyDataSetChanged();
@@ -70,9 +66,8 @@ namespace SignalRDemo.Android
                     string message = et_content.Text;
                     if (string.IsNullOrWhiteSpace(message) == false)
                     {
-                        //loungeProxy.Invoke<string>("pingHello", message);
+                        loungeProxy.Invoke<string>("pingHello", message);
                         et_content.Text = "";
-                        adapter.AddItem(message);
                     }
                 };
             }
