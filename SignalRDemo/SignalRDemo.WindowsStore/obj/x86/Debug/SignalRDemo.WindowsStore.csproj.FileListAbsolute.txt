@@ -1,0 +1,2 @@
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\obj\x86\Debug\SignalRDemo.WindowsStore.csprojResolveAssemblyReference.cache

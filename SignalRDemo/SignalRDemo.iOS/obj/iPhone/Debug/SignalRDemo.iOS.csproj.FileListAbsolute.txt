@@ -1,0 +1,5 @@
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.iOS\bin\iPhone\Debug\SignalRDemoiOS.exe
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.iOS\bin\iPhone\Debug\SignalRDemoiOS.pdb
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.iOS\obj\iPhone\Debug\SignalRDemo.iOS.csprojResolveAssemblyReference.cache
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.iOS\obj\iPhone\Debug\SignalRDemoiOS.exe
+C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.iOS\obj\iPhone\Debug\SignalRDemoiOS.pdb
