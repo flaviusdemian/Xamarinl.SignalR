@@ -16,7 +16,7 @@
         p1:layout_alignParentTop="true">
         <TextView
             p1:id="@+id/tv_content"
-            p1:text="What are thinking?"
+            p1:text="What are you thinking?"
             p1:background="@android:color/black"
             p1:layout_width="match_parent"
             p1:layout_height="40dip" />

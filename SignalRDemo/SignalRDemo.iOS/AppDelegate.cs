@@ -15,7 +15,8 @@ namespace SignalRDemo.iOS
     {
         // class-level declarations
         UIWindow window;
-
+        public static UIStoryboard Storyboard = UIStoryboard.FromName("MainStoryboard", null);
+        public static UIViewController initialViewController = null;
         //
         // This method is invoked when the application has loaded and is ready to run. In this 
         // method you should instantiate the window, load the UI into it and then make the window
@@ -25,16 +26,19 @@ namespace SignalRDemo.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            // create a new window instance based on the screen size
-            window = new UIWindow(UIScreen.MainScreen.Bounds);
-
-            // If you have defined a view, add it here:
-            // window.RootViewController  = navigationController;
-
-            // make the window visible
-            window.MakeKeyAndVisible();
-
-            return true;
+            try
+            {
+                window = new UIWindow(UIScreen.MainScreen.Bounds);
+                initialViewController = Storyboard.InstantiateInitialViewController() as UIViewController;
+                window.RootViewController = initialViewController;
+                window.MakeKeyAndVisible();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                ex.ToString();
+            }
+            return false;
         }
     }
 }

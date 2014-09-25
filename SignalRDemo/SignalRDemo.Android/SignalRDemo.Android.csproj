@@ -98,12 +98,6 @@
     <AndroidResource Include="Resources\values\colors.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SignalRDemo.GameCore\SignalRDemo.GameCore.csproj">
-      <Project>{d1b592c8-9cc2-4b25-984a-c5676848c819}</Project>
-      <Name>SignalRDemo.GameCore</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <XamarinComponentReference Include="signalr">
       <Visible>False</Visible>
       <Version>2.1.1</Version>

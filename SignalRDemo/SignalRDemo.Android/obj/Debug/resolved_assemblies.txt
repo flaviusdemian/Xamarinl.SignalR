@@ -1,7 +1,6 @@
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\SignalRDemo.Android.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\Components\signalr-2.1.1\lib\android\Microsoft.AspNet.SignalR.Client.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\Components\signalr-2.1.1\lib\android\Newtonsoft.Json.dll
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\bin\Debug\SignalRDemo.GameCore.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\Components\signalr-2.1.1\lib\android\System.Net.Http.Extensions.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\Components\signalr-2.1.1\lib\android\System.Net.Http.Primitives.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll

@@ -1,14 +1,18 @@
 
 using System;
+using System.Collections.Generic;
 using System.Drawing;
-
+using System.Linq;
+using Microsoft.AspNet.SignalR.Client;
 using MonoTouch.Foundation;
 using MonoTouch.UIKit;
+using SignalRDemo.iOS.TableHelpers;
 
 namespace SignalRDemo.iOS
 {
     public partial class MainViewController : UIViewController
     {
+        private IHubProxy loungeProxy;
         static bool UserInterfaceIdiomIsPhone
         {
             get { return UIDevice.CurrentDevice.UserInterfaceIdiom == UIUserInterfaceIdiom.Phone; }
@@ -31,9 +35,42 @@ namespace SignalRDemo.iOS
 
         public override void ViewDidLoad()
         {
-            base.ViewDidLoad();
+            try
+            {
+                base.ViewDidLoad();
+                InitializeUI();
+                // Perform any additional setup after loading the view, typically from a nib.
+                var hubConnection = new HubConnection("http://signalrmeetupdemo.azurewebsites.net/signalr");
+                // create proxy
+                loungeProxy = hubConnection.CreateHubProxy("Lounge");
 
-            // Perform any additional setup after loading the view, typically from a nib.
+                loungeProxy.On<string>("pongHello", data =>
+                {
+                    try
+                    {
+                        InvokeOnMainThread(() =>
+                        {
+                            TableSource.tableItems.Add(data);
+                            tblv_message.Source = new TableSource(TableSource.tableItems);
+                            tblv_message.ReloadData();
+                        });
+                    }
+                    catch (Exception ex)
+                    {
+                        ex.ToString();
+                    }
+                });
+                hubConnection.Start().Wait();
+            }
+            catch (Exception ex)
+            {
+                ex.ToString();
+            }
+        }
+
+        private void InitializeUI()
+        {
+            tblv_message.Source = new TableSource(new List<string>());
         }
 
         public override void ViewWillAppear(bool animated)
@@ -57,5 +94,15 @@ namespace SignalRDemo.iOS
         }
 
         #endregion
+
+        partial void btn_Send_TouchUpInside(UIButton sender)
+        {
+            string message = et_content.Text;
+            if (string.IsNullOrWhiteSpace(message) == false)
+            {
+                loungeProxy.Invoke<string>("pingHello", message);
+                et_content.Text = "";
+            }
+        }
     }
 }

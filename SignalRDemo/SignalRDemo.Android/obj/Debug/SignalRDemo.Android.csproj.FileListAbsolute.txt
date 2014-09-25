@@ -26,11 +26,8 @@ C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\SignalRDe
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\SignalRDemo.Android-Signed.apk
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\Newtonsoft.Json.dll
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\SignalRDemo.GameCore.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\System.Net.Http.Extensions.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\System.Net.Http.Primitives.dll
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\SignalRDemo.GameCore.pdb
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\bin\Debug\SignalRDemo.GameCore.dll.mdb
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\SignalRDemo.Android.csprojResolveAssemblyReference.cache
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\SignalRDemo.Android.dll
 C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.Android\obj\Debug\SignalRDemo.Android.pdb

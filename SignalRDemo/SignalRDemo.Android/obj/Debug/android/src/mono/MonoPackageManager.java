@@ -70,7 +70,6 @@ class MonoPackageManager_Resources {
 		"SignalRDemo.Android.dll",
 		"Microsoft.AspNet.SignalR.Client.dll",
 		"Newtonsoft.Json.dll",
-		"SignalRDemo.GameCore.dll",
 		"System.Net.Http.Extensions.dll",
 		"System.Net.Http.Primitives.dll",
 		"System.Collections.Concurrent.dll",
