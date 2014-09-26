@@ -1,7 +1,0 @@
-SignalRDemo.Android.Adapters.MessagesAdapter;signalrdemo.android.adapters.MessagesAdapter
-SignalRDemo.Android.Adapters.PlayersAdapter;signalrdemo.android.adapters.PlayersAdapter
-SignalRDemo.Android.GameActivity;signalrdemo.android.GameActivity
-SignalRDemo.Android.MainActivity;signalrdemo.android.MainActivity
-SignalRDemo.Android.MyApplication;signalrdemo.android.MyApplication
-SignalRDemo.Android.SimpleActivity;signalrdemo.android.SimpleActivity
-SignalRDemo.Android.ViewHolders.MessagesViewHolder;signalrdemo.android.viewholders.MessagesViewHolder

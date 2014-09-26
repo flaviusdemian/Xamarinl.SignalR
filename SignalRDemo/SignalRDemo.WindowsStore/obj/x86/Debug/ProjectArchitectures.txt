@@ -1,1 +1,0 @@
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.WindowsStore\SignalRDemo.WindowsStore.csproj;x86

@@ -188,9 +188,6 @@
     <Content Include="Lounge2.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <None Include="Properties\PublishProfiles\signalrMeetupDemo.pubxml" />
-    <None Include="Properties\PublishProfiles\signalrtictactoe - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\signalrtictactoe - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <None Include="Scripts\jquery-2.1.0.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.0.js" />
@@ -234,6 +231,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Properties\PublishProfiles\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

@@ -1,4 +1,0 @@
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\bin\Release\SignalRDemo.GameCore.dll
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\bin\Release\SignalRDemo.GameCore.pdb
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\obj\Release\SignalRDemo.GameCore.dll
-C:\Projects\Xamarinl.SignalR\SignalRDemo\SignalRDemo.GameCore\obj\Release\SignalRDemo.GameCore.pdb
